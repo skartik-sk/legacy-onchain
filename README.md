@@ -23,7 +23,7 @@ legacy - onchain is a mystical, blockchain-based platform inspired by *virasat* 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/legacy - onchain/legacy - onchain.git
+   git clone https://github.com/skartik-sk/legacy-onchain.git
    cd legacy - onchain
    ```
 2. Install dependencies:
